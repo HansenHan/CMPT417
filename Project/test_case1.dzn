@@ -1,0 +1,9 @@
+% test 1
+
+num = 4;
+cap = 5;
+refill = 2;
+fun = [4,1,2,3];
+K = 25;
+
+% optimal solution: total_fun(35)

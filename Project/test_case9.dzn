@@ -1,0 +1,9 @@
+% test 9
+
+num = 10;
+cap = 8;
+refill = 5;
+fun = [-5,2,1,-3,6,3,8,-5,-1,3];
+K = 200;
+
+% optimal solution: total_fun(149)

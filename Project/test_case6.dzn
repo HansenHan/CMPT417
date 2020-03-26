@@ -1,0 +1,9 @@
+% test 6
+
+num = 8;
+cap = 8;
+refill = 2;
+fun = [-3,2,1,5,-3,6,2,-1];
+K = 50;
+
+% optimal solution: total_fun(67)

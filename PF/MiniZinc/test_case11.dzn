@@ -1,0 +1,9 @@
+% test 11
+
+num = 12;
+cap = 7;
+refill = 3;
+fun = [3,2,5,-4,6,-7,-3,5,4,2,1,-4];
+K = 150;
+
+% optimal solution: total_fun(122)
